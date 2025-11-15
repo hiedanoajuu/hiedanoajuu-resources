@@ -1,6 +1,6 @@
 # Ajuu's Resources
 
-This repository contains various resources for my personal blog [ajuu.org](https://ajuu.org), organized into different categories:
+This repository contains various resources for share, organized into different categories:
 
 ## Folder Structure
 - `texts/` - Original writings by me (licensed under CC-BY-NC-SA, see [`LICENSE-TEXT`](LICENSE-TEXT))
