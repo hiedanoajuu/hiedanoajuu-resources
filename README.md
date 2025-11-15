@@ -4,7 +4,7 @@ This repository contains various resources for my personal blog [ajuu.org](https
 
 ## Folder Structure
 - `texts/` - Original writings by me (licensed under CC-BY-NC-SA, see [`LICENSE-TEXT`](LICENSE-TEXT))
-- `code/` - Original code by me (licensed under MIT, see [`LICENSE-CODE`](LICENSE-TEXT))
+- `code/` - Original code by me (licensed under MIT, see [`LICENSE-CODE`](LICENSE-CODE))
 - `books/` `others/` - Other materials (all rights reserved, original authors retain copyright)
 
 ## Usage
