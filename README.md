@@ -18,5 +18,6 @@ git clone https://github.com/hiedanoajuu/hiedanoajuu-resources.git
 ```
 
 ## Latest Update
+- 2025-11-30: *A Treatise on Electricity and Magnetism (Vol. I)* - James Clerk Maxwell
 - 2025-11-01: *Experiments on the Effect of a Current of Electricity on the Magnetic Needle* — John Christian Oersted
 - 2025-10-18: *A New System of Chemistry Philosophy* — John Dalton
