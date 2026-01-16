@@ -3,7 +3,7 @@
 This repository contains various resources for share, organized into different categories:
 
 ## Folder Structure
-- `texts/` - Original writings by me (licensed under CC-BY-NC-SA, see [`LICENSE-TEXT`](LICENSE-TEXT))
+- `texts/` - Original writings by me (licensed under CC BY-SA, see [`LICENSE-TEXT`](LICENSE-TEXT))
 - `code/` - Original code by me (licensed under MIT, see [`LICENSE-CODE`](LICENSE-CODE))
 - `books/` `others/` - Other materials (all rights reserved, original authors retain copyright)
 
