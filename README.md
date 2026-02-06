@@ -1,5 +1,10 @@
 # Ajuu's Resources
 
+<a href="http://www.defectivebydesign.org/drm-free">
+<img src="https://static.fsf.org/dbd/label/DRM-free label 120.en.png" 
+alt="DefectiveByDesign.org"
+width="250" height="250" border="0" align="middle" /></a>
+
 This repository contains various resources for share, organized into different categories:
 
 ## Folder Structure
